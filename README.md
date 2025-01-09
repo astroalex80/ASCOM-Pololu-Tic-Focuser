@@ -32,6 +32,7 @@ Planned driver enhancements:
 
 Requirements
 - Pololu USB driver and Tic Controller software for initial configuration
+- important: deactivate "Command timeout" in Tic Control center fos stable function
 - Compatible with tools like Deepsky Geek's Virtual Focuser for temperature compensation feature.
 
 The driver currently supports the Tic T500 but can be adapted for other models.
