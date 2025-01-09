@@ -5,7 +5,7 @@ First install USB device driver from Pololu as well as the Tic Control Center.
 can be found at www.pololu.com/product/3135/resources
 for the Tic T 500.
 
-Second use the ASCOM driver installer provided here or build your own solution with the source code provided! Here’s a concise summary in English for GitHub:
+Second use the ASCOM driver installer provided here or build your own solution with the source code provided!
 
 
 This project provides an ASCOM driver for the Pololu Tic T500 Motor Controller, 
