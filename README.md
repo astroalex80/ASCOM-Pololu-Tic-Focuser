@@ -4,7 +4,7 @@ ASCOM USB Motor focuser based on a Pololu Tic Motorcontroller.
 First install USB device driver from Pololu as well as the Tic Control Center.
 These can be found at www.pololu.com/product/3135/resources for the Pololu Tic T 500.
 
-Second use the ASCOM driver installer provided here or build your own solution with the source code.
+Second use the ASCOM driver installer provided here.
 
 This project provides an ASCOM driver for the Pololu Tic T500 Motor Controller, 
 enabling precise control of a stepper motor for astrophotography and telescope focusing. 
