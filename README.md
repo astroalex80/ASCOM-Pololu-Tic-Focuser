@@ -1,9 +1,6 @@
 # ASCOM-Pololu-Tic-Focuser
 Update 11.05.2025:
-As struggeling a bit with the Installer, causing the focuser not working for some folks, here a guideline for manual installing.
-Basically it is the copy of my files of my remote setup in Spain were the Pololu Tic Focuser is working flawlessly since a couple of month.
-
-Create a folder named "Pololu Tic" under: "C:\Program Files (x86)\Common Files\ASCOM\Focuser\" and copy the files ASCOM.PololuTicFocuser.exe and LibUsbDotNet.LibUsbDotNet.dll to it.
+New installer added
 
 
 
